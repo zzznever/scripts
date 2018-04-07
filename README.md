@@ -6,4 +6,5 @@ USE AT YOUR OWN RISK
 
 ```sh
 # curl https://raw.githubusercontent.com/zzznever/scripts/master/install-bookstack.sh > ~/install-bookstack.sh && chmod 744 ~/install-bookstack.sh
+# sh ~/install-bookstack.sh | tee ~/install-bookstack.log
 ```  
